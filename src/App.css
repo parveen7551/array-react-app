@@ -1,0 +1,30 @@
+.array-button {
+    text-align: center;
+    border-radius: 1em;
+    padding: 1em;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+
+.button {
+  background-color: #d1cfcf;
+  border: none;
+  color: white;
+  margin-top: 12px;
+  padding: 8px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 25px;
+}
+.input-class {  
+  margin-top: 12px;
+  padding: 8px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 25px;
+}
